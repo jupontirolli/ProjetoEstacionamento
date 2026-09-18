@@ -1,0 +1,59 @@
+Pesquisa de Mercado 
+
+Objetivo
+Esta pesquisa de mercado tem como objetivo analisar aplicativos e softwares de estacionamento existentes, identificando seus principais recursos, pontos positivos e possíveis limitações. Essa análise, conhecida como benchmarking, ajudará no levantamento de requisitos e no desenvolvimento de uma nova solução para estacionamentos.
+
+Zul+
+O Zul+ é um aplicativo brasileiro da Estapar que concentra diferentes serviços relacionados a veículos. Entre seus recursos estão a ativação da Zona Azul pelo celular, a localização de estacionamentos, o pagamento digital do tíquete e a reserva antecipada de vagas em aeroportos, arenas e eventos.
+O aplicativo também oferece uma tag que pode ser utilizada em estacionamentos e pedágios. Seu principal ponto positivo é reunir diferentes serviços em uma única plataforma. Entretanto, a quantidade de funcionalidades pode tornar a navegação mais complexa para usuários que desejam somente estacionar ou pagar uma vaga.
+Fonte: Site oficial do Zul+⁠￼.
+
+Sem Parar
+O Sem Parar oferece pagamento automático em estacionamentos por meio de uma tag instalada no veículo. Ao se aproximar da cancela, o sistema identifica o automóvel e libera sua entrada. Na saída, o pagamento é realizado automaticamente, evitando filas nos caixas.
+O serviço também oferece ticket digital, pagamento de Zona Azul pelo aplicativo e reserva antecipada de vagas para determinados eventos. Seu principal ponto positivo é a agilidade na entrada e na saída. Como ponto de atenção, algumas funcionalidades dependem da utilização da tag e da disponibilidade do serviço em estabelecimentos credenciados.
+Fonte: Sem Parar – Estacionamentos⁠￼.
+
+ParkMobile
+O ParkMobile é uma solução internacional que permite localizar estacionamentos, selecionar o veículo, definir o tempo de permanência e realizar o pagamento pelo celular. O usuário também pode procurar uma vaga para utilização imediata ou fazer uma reserva antecipada.
+Seu ponto positivo é oferecer um processo simples para encontrar, reservar e pagar pelo estacionamento. Como limitação, seu funcionamento depende das cidades e dos estacionamentos que possuem integração com a plataforma.
+Fonte: Site oficial do ParkMobile⁠￼.
+
+SpotHero
+O SpotHero permite pesquisar estacionamentos informando o destino, a data e o horário desejados. O aplicativo apresenta diferentes opções para que o usuário compare localização, preço e detalhes antes de realizar uma reserva.
+Após a reserva, o motorista recebe um passe digital com as informações necessárias para utilizar o estacionamento. A plataforma também permite salvar locais favoritos, refazer reservas e alterar ou cancelar a maioria das reservas antes do horário de início.
+Seu principal ponto positivo é facilitar a comparação entre diferentes estacionamentos. Como ponto de atenção, a disponibilidade das vagas depende dos estabelecimentos cadastrados e das regiões atendidas pela plataforma.
+Fonte: Site oficial do SpotHero⁠￼.
+
+ParkWhiz
+O ParkWhiz é um aplicativo que possibilita encontrar vagas para utilização imediata ou futura. A plataforma permite comparar preços, reservar uma vaga, realizar o pagamento antecipado e utilizar um passe digital para entrar no estacionamento.
+Um de seus pontos positivos é apresentar o custo total antes da confirmação da reserva, proporcionando maior transparência ao usuário. Entretanto, é uma solução voltada principalmente ao mercado internacional, sendo mais adequada como referência para o projeto do que para utilização no Brasil.
+Fonte: Site oficial do ParkWhiz⁠￼.
+
+Recursos identificados
+Com base na análise dos softwares, foram identificados os seguintes recursos:
+* Localização de estacionamentos próximos;
+* Consulta de preços e informações dos estabelecimentos;
+* Comparação entre diferentes estacionamentos;
+* Visualização da disponibilidade de vagas;
+* Reserva antecipada;
+* Cadastro de usuários e veículos;
+* Pagamento digital;
+* Entrada e saída por tag, QR Code ou passe digital;
+* Cálculo automático do tempo de permanência;
+* Histórico de reservas e pagamentos;
+* Envio de comprovantes;
+* Notificações sobre o tempo de permanência;
+* Alteração ou cancelamento de reservas;
+* Localização do veículo dentro do estacionamento;
+* Descontos e programas de fidelidade.
+
+Conclusão
+A pesquisa mostrou que os aplicativos existentes buscam tornar o estacionamento mais rápido, seguro e prático. Recursos como reserva antecipada, pagamento digital, comparação de preços e entrada automatizada podem ser considerados no desenvolvimento do nosso software.
+
+
+Referências
+ZUL DIGITAL. Zul+: tudo para quem dirige. Disponível em: https://www.zuldigital.com.br/⁠￼. Acesso em: 18 set. 2026.
+SEM PARAR. Estacionamentos Sem Parar. Disponível em: https://www.semparar.com.br/estacionamentos⁠￼. Acesso em: 18 set. 2026.
+PARKMOBILE. ParkMobile Parking App. Disponível em: https://parkmobile.io/⁠￼. Acesso em: 18 set. 2026.
+SPOTHERO. Reserve Parking and Save. Disponível em: https://spothero.com/⁠￼. Acesso em: 18 set. 2026.
+PARKWHIZ. Find and Book Parking. Disponível em: https://www.parkwhiz.com/⁠￼. Acesso em: 18 set. 2026.
