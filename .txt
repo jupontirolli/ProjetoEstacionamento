@@ -1,0 +1,29 @@
+1. Como costuma ser sua experiência ao utilizar estacionamentos?
+    Geralmente é boa, mas em locais movimentados pode ser difícil encontrar vagas.
+
+2. Quais dificuldades você normalmente encontra?
+    Falta de vagas, preços altos, filas e dificuldade para localizar o carro depois.
+
+3. Como gostaria de verificar se existem vagas disponíveis?
+    Por aplicativo ou painel digital, com atualização em tempo real.
+
+4. Quais informações você gostaria de receber antes de entrar?
+    Preço, quantidade de vagas disponíveis, horário de funcionamento e formas de pagamento.
+
+5. Como deveria funcionar o processo de entrada e saída?
+    De forma automática, preferencialmente com leitura da placa do veículo.
+
+6. Como você gostaria de realizar o pagamento?
+    Por Pix, cartão ou aplicativo.
+
+7. O que tornaria o pagamento mais rápido e prático?
+    Pagamento automático vinculado à placa ou ao aplicativo, sem precisar enfrentar filas.
+
+8. O que faria você se sentir mais seguro?
+    Câmeras, boa iluminação, controle de acesso e funcionários no estacionamento.
+
+9. Como gostaria de receber o comprovante do estacionamento?
+    De forma digital, pelo aplicativo, WhatsApp ou e-mail.
+    
+10. O que considera indispensável em um bom estacionamento?
+    Segurança, organização, preço claro, facilidade para encontrar vagas e rapidez na entrada, pagamento e saída.
